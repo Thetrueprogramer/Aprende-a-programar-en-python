@@ -5,5 +5,7 @@
 def yuca():
   yuca = 12
 
+
+# Como: input()
 # Tambien hay funciones predeterminadas por python. Miralas aqui: https://docs.python.org/es/3.13/library/functions.html
 print("Nos vemos en la proxima clase")
