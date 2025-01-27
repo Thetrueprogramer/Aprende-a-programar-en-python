@@ -6,6 +6,8 @@ def yuca():
   yuca = 12
 
 
+
+# hay que llamar a las funciones asi: "Nombre de la funcion"("parametros")
 # Como: input()
 # Tambien hay funciones predeterminadas por python. Miralas aqui: https://docs.python.org/es/3.13/library/functions.html
 print("Nos vemos en la proxima clase")
