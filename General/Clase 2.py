@@ -5,5 +5,5 @@
 def yuca():
   yuca = 12
 
-# Tambien hay funciones predeterminadas del interprete. Miralas aqui: https://docs.python.org/es/3.13/library/functions.html
+# Tambien hay funciones predeterminadas por python. Miralas aqui: https://docs.python.org/es/3.13/library/functions.html
 print("Nos vemos en la proxima clase")
