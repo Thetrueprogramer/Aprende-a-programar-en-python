@@ -1,4 +1,4 @@
-# Bienvenido a la 3ra clase del curso de Python, hoy aprenderemos sobre los bucles.
+# Bienvenido a la 4ta clase del curso de Python, hoy aprenderemos sobre los bucles.
 
 # Ejemplo 1: Usar 'range()' para generar una secuencia de números
 for i in range(5):
